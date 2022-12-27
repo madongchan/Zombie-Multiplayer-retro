@@ -9,13 +9,14 @@
 
 난이도가 조금 높은것 같아 아이템이 더 자주나오게 했습니다.
 
-처음 나오는 조작법 화면
+
 ![Snipaste_2022-12-27_14-35-39](https://user-images.githubusercontent.com/63357336/209616695-52add304-fab7-40a8-9071-803cfb8ede3e.png)
+처음 나오는 조작법 화면
 
-서버를 찾고 멀티 플레이를 시작하는 화면
 ![Snipaste_2022-12-27_14-35-55](https://user-images.githubusercontent.com/63357336/209616701-36338fe9-2878-49ef-8828-f115fa0577f5.png)
+서버를 찾고 멀티 플레이를 시작하는 화면
 
-인 게임 장면 1
 ![Snipaste_2022-12-27_14-36-13](https://user-images.githubusercontent.com/63357336/209616702-a5f529c7-6f0c-4651-b3fc-6889bbecfe7a.png)
-인 게임 장면 2
+인 게임 장면 1
 ![Snipaste_2022-12-27_14-36-24](https://user-images.githubusercontent.com/63357336/209616705-98f810d2-7e89-4dbb-bc45-aa92d6f0493d.png)
+인 게임 장면 2
